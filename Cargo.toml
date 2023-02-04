@@ -1,6 +1,6 @@
 [package]
 name = "haws"
-version = "0.1.1"
+version = "0.1.3"
 authors = ["maxim"]
 edition = "2021"
 description="a crate to build a web server similar to express js"
