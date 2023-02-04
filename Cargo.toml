@@ -4,6 +4,8 @@ version = "0.1.1"
 authors = ["maxim"]
 edition = "2021"
 description="a crate to build a web server similar to express js"
+documentation="https://docs.rs/haws"
+repository="https://github.com/StarLitDragon404/haws/tree/master"
 license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
